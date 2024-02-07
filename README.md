@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="2024-02-07-FAKHAR.gif" alt="Project Logo" width="200"/>
+  <img src="2024-02-07-FAKHAR.gif" alt="Project Logo" width="400"/>
 </div>
 <h1 align="center">Hi 👋, I'm Fakhar ul din</h1>
 <h3 align="center">Passionate Cybersecurity Student: Embarking on the Fascinating Journey of Cybersecurity Exploration, Delving Deep into the Intricacies of Code, Concepts, and Collaborative Ventures to Safeguard Digital Frontiers</h3>
