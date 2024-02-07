@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fakhurdin](https://github.com/fakhurdin)
 
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/what-is-a-memory-pool/](https://www.geeksforgeeks.org/what-is-a-memory-pool/)
+- 📝 I regularly write articles on [here...](https://www.geeksforgeeks.org/what-is-a-memory-pool/)
 
 - 💬 Ask me about **C++, C, Python, Java, JavaScript, SQL, HTML, CSS**
 
-- 📫 How to reach me **fakhurdin987@gmail.com**
+- 📫 How to reach me: [fakhurdin987@gmail.com](mailto:fakhurdin987@gmail.com)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tdRfkLRqkvxf8inOUXUs7t-_czHB8jsFme3j939dt8M/edit?usp=sharing](https://docs.google.com/document/d/1tdRfkLRqkvxf8inOUXUs7t-_czHB8jsFme3j939dt8M/edit?usp=sharing)
+- 📄 Know about my experiences [here!](https://docs.google.com/document/d/1tdRfkLRqkvxf8inOUXUs7t-_czHB8jsFme3j939dt8M/edit?usp=sharing)
 
 - ⚡ Fun fact **I am always Hungry**
 
