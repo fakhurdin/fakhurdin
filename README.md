@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[path/to/your/image](https://drive.google.com/file/d/1v-nAiuFza6MAmkGn1xLDJe4LajLMJnc4/view?usp=sharing).gif" alt="Project Logo" width="200"/>
+  <img src="2024-02-07-FAKHAR.gif" alt="Project Logo" width="200"/>
 </div>
 <h1 align="center">Hi 👋, I'm Fakhar ul din</h1>
 <h3 align="center">Passionate Cybersecurity Student: Embarking on the Fascinating Journey of Cybersecurity Exploration, Delving Deep into the Intricacies of Code, Concepts, and Collaborative Ventures to Safeguard Digital Frontiers</h3>
