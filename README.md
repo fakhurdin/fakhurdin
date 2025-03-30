@@ -1,72 +1,56 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker Mode" width="100%"/>
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="Hacker Mode" width="100%"/>
 </div>
 
----
-
-<h1 align="center">
-  <span style="color:#00ff00">⚡ 𝙁𝙖𝙠𝙝𝙖𝙧 𝙐𝙡 𝘿𝙞𝙣 ⚡</span>
-</h1>
-
-<h3 align="center" style="color:#00ff00">
-  Cybersecurity Enthusiast | Penetration Tester | Ethical Hacker
-</h3>
+<h1 align="center">🚀 Fakhar Ul Din - Cybersecurity Specialist 🛡️</h1>
+<h3 align="center">Red Team | Penetration Tester | Malware Analyst | Digital Forensics</h3>
 
 ---
 
-```bash
-> Initializing... ██████████ 100%
-> Access Granted: Welcome to my digital fortress
+```shell
+> Booting up security protocols...
+> Access granted. Welcome to my domain.
 ```
 
-🔍 **About Me**
-- 🛠 Currently building a **Penetration Testing Tool** to enhance security assessments.
-- 🔥 Passionate about **Offensive Security, Red Teaming, and Threat Hunting**.
-- 🚀 Exploring **Malware Analysis, Reverse Engineering, and Exploit Development**.
-- 🧠 Learning **Cloud Security, ICS/SCADA Security, and Digital Forensics**.
-- 🎯 Goal: **Securing Digital Frontiers and Strengthening Cyber Defenses**.
-
-💡 **Ask me about**
-- 🕵️ Ethical Hacking | Red Teaming | Digital Forensics
-- 🔐 Network & Web App Security | Reverse Engineering
-- ⚙️ Penetration Testing | OSINT | Malware Analysis
+- 🛠 **Currently Building:** A powerful **Penetration Testing Toolkit** to enhance security assessments
+- 🎯 **Specialized In:** Ethical Hacking, Reverse Engineering, Digital Forensics, Malware Analysis, Red Teaming
+- 📖 **Learning:** Advanced Exploit Development, Threat Hunting, Cloud Security
+- 📂 **All My Work:** [GitHub Portfolio](https://github.com/fakhurdin)
+- ✍️ **Articles & Write-ups:** [Memory Pool Research](https://www.geeksforgeeks.org/what-is-a-memory-pool/)
+- 📧 **Contact:** [fakhurdin987@gmail.com](mailto:fakhurdin987@gmail.com)
 
 ---
 
-<h3 align="center" style="color:#00ff00">💻 Tech Stack</h3>
+## 🛠 Cybersecurity Toolkit
+
+```
+[+] Penetration Testing
+[+] Reverse Engineering
+[+] Network & Web Security
+[+] Malware Analysis
+[+] Digital Forensics
+```
+
+### ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,rust,c,cpp,js,sql,postgresql,git" />
-</p>
-
----
-
-<h3 align="center" style="color:#00ff00">🚀 Connect with Me</h3>
-
-<p align="center">
-<a href="https://twitter.com/fakhar_ul_din"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/fakhar-ul-din-b8902421b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.hackerrank.com/fakhur.din"><img src="https://img.shields.io/badge/HackerRank-107C10?logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://www.leetcode.com/fakhurdin987"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,rust,java,c,cpp,postgres,mysql,git,aws,gcp,burpsuite,wireshark,metasploit" />
 </p>
 
 ---
 
-<h3 align="center" style="color:#00ff00">🔥 GitHub Stats</h3>
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhurdin&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhurdin&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fakhurdin&theme=matrix&no-bg=true" />
+  <a href="https://twitter.com/fakhar_ul_din"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/fakhar-ul-din-b8902421b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/fakhur.din"><img src="https://img.shields.io/badge/HackerRank-%2329b573.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/fakhurdin987"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
 
-```bash
-> System Breached! Exiting Securely... 🔒
+```shell
+> Initiating secure logout...
+> Session terminated. See you in the matrix. 🕶️
+```
