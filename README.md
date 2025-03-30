@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Hacker Mode" width="100%"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Hacker Mode" width="60%"/>
 </div>
 <h1 align="center">🚀 Fakhar Ul Din - Cybersecurity Specialist 🛡️</h1>
 <h3 align="center">Red Team | Penetration Tester | Malware Analyst | Digital Forensics</h3>
