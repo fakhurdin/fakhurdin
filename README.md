@@ -1,80 +1,64 @@
-███████╗ █████╗ ██╗  ██╗██╗  ██╗ █████╗ ██████╗     ██╗   ██╗██╗     
-██╔════╝██╔══██╗██║  ██║██║  ██║██╔══██╗██╔══██╗    ██║   ██║██║     
-███████╗███████║███████║███████║███████║██████╔╝    ██║   ██║██║     
-╚════██║██╔══██║██╔══██║██╔══██║██╔══██║██╔═══╝     ╚██╗ ██╔╝██║     
-███████║██║  ██║██║  ██║██║  ██║██║  ██║██║          ╚████╔╝ ███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝           ╚═══╝  ╚══════╝
-                                                                     
-**"No system is safe, but every system can be hardened."** 👁‍🗨
-
----
-### 🌌 Whoami:
-🛠 **Cybersecurity Engineer | Digital Forensics Specialist | Ethical Hacker**  
-📍 **Exploring the depths of security, one exploit at a time.**  
-
-🔎 **Specialties:** Penetration Testing, Reverse Engineering, Network Security, Digital Forensics  
-💾 **Weapons of Choice:** Kali Linux, Wireshark, Metasploit, Nmap, Burp Suite  
-🛡 **Mission:** Securing the digital frontier  
-
----
-
-### 🕵️‍♂️ My Cyber Arsenal:
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacker Mode" width="100%"/>
+</div>
 
 ```bash
-> skills --list
----------------------------
-✔ Penetration Testing
-✔ Digital Forensics
-✔ Reverse Engineering
-✔ Web & Network Security
-✔ Cryptography & Malware Analysis
-✔ Cloud Security & OSINT
----------------------------
+# Welcome to my Cyber Domain
+> Initializing...
+> Access Granted ✅
+```
+
+<h1 align="center">👾 Fakhar ul Din 👾</h1>
+<h3 align="center">Cybersecurity | Penetration Testing | Digital Forensics | Reverse Engineering</h3>
+
+```bash
+# System Status
+> Threat Intelligence: ACTIVE
+> Incident Response: ONLINE
+> Cyber Defense Mode: ENGAGED
+```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fakhurdin&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/hacking-elite-green?style=flat-square" alt="Hacker Badge" />
+</p>
+
+## 🔥 Cyber Operations
+- 🚀 **Developing:** A Next-Gen **Penetration Testing Framework**
+- 🎯 **Expertise:** Red Teaming, Exploit Development, OSINT, and Network Security
+- 📂 **Forensics & Reverse Engineering:** Malware Analysis & Memory Forensics
+- 🌐 **Learning:** Cloud Security & Industrial Cybersecurity
+
+## 🛠 Cyber Arsenal
+```bash
+> Tools in Use:
+   - 🛡️ Metasploit | Burp Suite | Aircrack-ng | Hydra | Snort
+   - 📡 Nmap | Wireshark | Sqlmap | John the Ripper | Volatility
+   - 🔍 Cyber Threat Intelligence | SIEM | DFIR | Memory Analysis
+```
+
+## 📡 Connect With Me
+```bash
+> Communication Channels:
+   - 🌐 LinkedIn:  https://linkedin.com/in/fakhar-ul-din-b8902421b
+   - 🐦 Twitter:   https://twitter.com/fakhar_ul_din
+   - 📧 Email:     fakhurdin987@gmail.com
+```
+
+## 🔒 Cybersecurity Quote
+```bash
+> "The quieter you become, the more you are able to hear." - Kali Linux
+```
+
+## 💰 Support My Work
+```bash
+> If you find my work useful, consider buying me a coffee ☕
+   - BuyMeACoffee: https://www.buymeacoffee.com/fakhurdin
+   - Ko-Fi:        https://ko-fi.com/fakhurdin
 ```
 
 ```bash
-> tools --list
----------------------------
-🕵️‍♂️ Kali Linux  |  🔍 Wireshark  |  🎯 Metasploit
-📡 Nmap  |  🔓 Burp Suite  |  🛡 Snort IDS
-💀 Ghidra  |  🏴‍☠️ Pypykatz  |  📟 Splunk
----------------------------
+# System Shutdown
+> Logging off...
+> Connection Terminated 🚀
 ```
-
----
-
-### 📡 Ongoing Operations:
-- 🔥 **Developing advanced pentesting scripts**  
-- 🔍 **Analyzing forensic artifacts**  
-- 🌐 **Enhancing security awareness**  
-
-```bash
-> projects --active
----------------------------
-📁 Threat Intelligence Dashboard
-📁 Automated Malware Sandbox
-📁 Cloud Security Research
----------------------------
-```
-
----
-
-### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fakhar-ul-din-b8902421b)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/fakhar_ul_din)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/fakhurdin)  
-
----
-
-### 🏆 Cyber Scoreboard:
-```bash
-> achievements --show
----------------------------
-🏆 CTF Challenger  |  🏅 Ethical Hacking Certified
-📜 Published Research  |  🚀 Memory Forensics Expert
----------------------------
-```
-
----
-### ☕ Support My Work:
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-yellow?style=for-the-badge)](https://www.buymeacoffee.com/fakhurdin)  
