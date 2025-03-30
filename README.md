@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Hacker Mode" width="60%"/>
 </div>
-<h1 align="center">🚀 Fakhar Ul Din - Cybersecurity Specialist 🛡️</h1>
+<h1 align="center">🚀 Fakhar Ul Din - Cybersecurity Student 🛡️</h1>
 <h3 align="center">Red Team | Penetration Tester | Malware Analyst | Digital Forensics</h3>
 
 ---
@@ -45,6 +45,7 @@
   <a href="https://linkedin.com/in/fakhar-ul-din-b8902421b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/fakhur.din"><img src="https://img.shields.io/badge/HackerRank-%2329b573.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://www.leetcode.com/fakhurdin987"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/fakhurdin987"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a> </p>
 </p>
 
 ---
